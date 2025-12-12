@@ -1,7 +1,5 @@
 Video of testing this out & the build process: https://www.youtube.com/watch?v=r5JTmFDXivk&t=15s  
 
-OG inspo from: https://github.com/farzaa/gemini-bball
-
 
 # AI Basketball Shot Training Application
 
@@ -49,3 +47,6 @@ python src/main.py
 - `data/sessions/` - Session metadata JSON files
 - `data/videos/` - Recorded shot videos
 
+
+
+OG inspo from: https://github.com/farzaa/gemini-bball
