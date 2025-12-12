@@ -1,3 +1,8 @@
+Video of testing this out & the build process: https://www.youtube.com/watch?v=r5JTmFDXivk&t=15s  
+
+OG inspo from: https://github.com/farzaa/gemini-bball
+
+
 # AI Basketball Shot Training Application
 
 A desktop Python application that provides real-time basketball shot training with AI coach Klay Thompson. The app captures video, detects shots automatically, analyzes form using Google Gemini, and provides personalized critiques.
