@@ -1,4 +1,4 @@
-Video of testing this out & the build process: https://www.youtube.com/watch?v=r5JTmFDXivk&t=15s  
+**Video of testing this out & the build process:** https://www.youtube.com/watch?v=r5JTmFDXivk&t=15s  
 
 
 # AI Basketball Shot Training Application
